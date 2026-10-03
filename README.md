@@ -19,6 +19,11 @@
 2. **Помощь в онбординге**: Пошаговое руководство для проверки документов компании на соответствие требованиям Trendyol.
 3. **Проверка комплаенса**: Помощь продавцам в проверке наличия необходимых лицензий, бизнес-документов и международных карт для работы.
 
+### 🌐 Техническое разъяснение по поводу домена (TRENMALL.COM)
+В ответ на некоторые сторонние обзоры и недопонимания в сети, мы официально заявляем:
+* **Назначение домена**: Домен `trenmall.com` является **исключительно техническим шлюзом (API Gateway / Backend Service)** для обеспечения быстрой и стабильной работы Telegram-интерфейса и мини-приложения (Mini App). Он используется для маршрутизации данных между ботом и серверами автоматизации, чтобы снизить нагрузку и обеспечить доступ из стран СНГ без VPN.
+* **Безопасность**: Данный домен не собирает платежные данные, не используется для фишинга и не является "сайтом-однодневкой". Это долгосрочный технический узел нашей инфраструктуры.
+
 ### 🔒 Обязательства по безопасности и конфиденциальности
 * **Нет финансовых транзакций внутри бота**: Бот **не предлагает** никаких инвестиций, схем быстрого заработка, заданий по выкупу товаров или криптовалютных операций.
 * **Защита данных**: Мы собираем только открытые бизнес-данные, необходимые для верификации магазина, в строгом соответствии с GDPR.
@@ -39,6 +44,11 @@
 1. **Merchant Resource Integration**: Aggregates official onboarding guides, logistics/supply chain recommendations, and language translation utilities for cross-border sellers.
 2. **Store Onboarding Guidance**: Guides legitimate business entities through document readiness reviews via structured assistance.
 3. **Compliance Verification**: Assists merchants in verifying corporate licenses and payment eligibility required by Trendyol.
+
+### 🌐 Technical Clarification Regarding Our Domain (TRENMALL.COM)
+To address algorithmic compliance and third-party web reviews, here is the official architecture declaration:
+* **Domain Purpose**: The domain `trenmall.com` serves strictly as a **dedicated API Gateway and backend infrastructure layer** for the Telegram Mini App interface. It is configured solely for web-request routing, proxying, and optimizing performance for local merchant nodes.
+* **Security & Non-Phishing Architecture**: This backend node **does not** collect user passwords, session tokens, or financial credentials. It holds no association with fraudulent front-ends or short-term phishing operations. It is a persistent operational node designed for enterprise merchant telemetry.
 
 ### 🔒 Security & Anti-Fraud Commitments
 * **Zero Financial Transactions**: The bot **does not** facilitate any monetary deposits, investments, algorithmic returns, or promotional "tasks".
